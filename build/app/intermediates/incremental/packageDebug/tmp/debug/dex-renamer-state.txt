@@ -1,0 +1,4 @@
+#Mon Dec 12 21:42:10 IST 2022
+base.0=C\:\\Users\\HP\\IdeaProjects\\trainrideapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
